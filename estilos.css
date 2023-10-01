@@ -1,0 +1,25 @@
+:root{
+    --blanco: #ffffff;
+    --oscuro: #212121; 
+    --primario: rgb(255, 252, 28);
+    --secundario: #4872FF;
+    --gris: #2B3D40;
+}
+html {
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 16px;
+    }
+.titulo{
+    text-align: center;
+    font-size: 4rem;
+    color: blue;
+    }
+span {
+    font-size: 20px;
+    color: red;
+}
+.titulo span {font-family: sacramento;
+    }
